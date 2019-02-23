@@ -15,7 +15,7 @@
  */
 package com.google.firebase.udacity.friendlychat;
 
-public class FriendlyMessage {
+ public class FriendlyMessage {
 
     private String text;
     private String name;
